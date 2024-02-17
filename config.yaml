@@ -1,5 +1,5 @@
 ---
-baseURL: "http://camunda-cn.shaochenfeng.com/"
+baseURL: "https://yangh124.github.io"
 languageCode: "zh-cn"
 title: "Camunda 中文站"
 theme: "camunda"
@@ -25,8 +25,8 @@ params:
     versions:
       - "develop"
   github:
-    repositoryName: "zoollcar/camunda-docs-manual-cn"
-    branch: "master"
+    repositoryName: "yangh124/camunda-docs-manual-cn"
+    branch: "main"
 
 outputs:
   home:
