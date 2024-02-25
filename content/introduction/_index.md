@@ -11,7 +11,7 @@ menu:
 ---
 
 
-欢迎来到Camunda平台手册！ Camunda是一种基于Java的框架，支持BPMN，用于工作流和过程自动化；CMMN，用于案例管理；DMN，用于业务决策管理。还请参阅： [实施标准]({{< ref "/introduction/implemented-standards.md" >}}).
+欢迎来到Camunda平台手册！ Camunda是一个基于java的框架，支持用于工作流和过程自动化的BPMN、用于案例管理的CMMN和用于商业决策管理的DMN。还请参阅： [实施标准]({{< ref "/introduction/implemented-standards.md" >}}).
 
 本文档包含有关Camunda平台提供的功能的信息。
 
